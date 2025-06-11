@@ -1,1 +1,1 @@
-# Kawaradar
+# Kawaradarに関するリポジトリをまとめたリポジトリです。
